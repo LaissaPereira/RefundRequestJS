@@ -4,10 +4,6 @@ A responsive Refund Request application built with **HTML5**, **CSS3**, and **Ja
 
 This project was developed as part of a **Rocketseat** course to practice building interactive web interfaces and manipulating the DOM with JavaScript.
 
-## Preview
-
-> Add a screenshot of the application here.
-
 ## Features
 
 - Add new expense requests
